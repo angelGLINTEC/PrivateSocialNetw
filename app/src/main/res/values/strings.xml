@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PrivateSocialNetwork</string>
+    <string name="txtVeiwStr_password">PASSWORD</string>
+    <string name="txtViewStr_USER">USUARIO</string>
+    <string name="btn_ACCESS">ACCESS</string>
+    <string name="txtViewStr_INFO">Into Social Network</string>
+    <string name="btnStr_RETURN">RETURN</string>
+</resources>
